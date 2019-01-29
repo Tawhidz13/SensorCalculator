@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accelerometer">accelerometer</string>
+    <string name="app_name">SensorCalc</string>
+    <string name="hello">Hello World, SensorCalcActivity!</string>
+    <string name="light">light sensor</string>
+    <string name="proximity">proximity sensor</string>
+</resources>
